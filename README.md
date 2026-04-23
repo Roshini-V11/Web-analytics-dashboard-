@@ -27,4 +27,4 @@ Analyzed 100 user session records to identify patterns in conversion and bounce 
 - Dashboard Screenshot
 
 ## Dashboard Preview
-![Dashboard](DashboardScreenshot.pdf)
+![Dashboard](Dashboard Screenshot.pdf)
